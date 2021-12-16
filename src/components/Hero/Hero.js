@@ -12,7 +12,7 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>Learn about what I've developed, what I'm currently developing and many more things!</SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>See More</Button>
+      <Button onClick={() => window.location = 'https://github.com/darolo13'}>See More</Button>
     </LeftSection>
   </Section>
 );
