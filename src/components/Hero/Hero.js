@@ -11,7 +11,7 @@ const Hero = () => (
         Welcome To <br />
         My Personal Portfolio
       </SectionTitle>
-      <SectionText>Learn About what I've developed and what I'm currently developing and many more things!</SectionText>
+      <SectionText>Learn about what I've developed, what I'm currently developing and many more things!</SectionText>
       <Button onClick={() => window.location = 'https://google.com'}>See More</Button>
     </LeftSection>
   </Section>
