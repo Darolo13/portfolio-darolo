@@ -1,5 +1,5 @@
 import Acomplishments from '../components/Acomplishments';
-import BgAnimation from '../components/BackgrooundAnimation';
+import BgAnimation from '../components/BackgroundAnimation';
 import Hero from '../components/Hero';
 import Projects from '../components/Projects';
 import Technologies from '../components/Technologies';
