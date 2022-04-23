@@ -46,9 +46,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey' },
+  { year: 2017, text: 'Started my journey.' },
   { year: 2018, text: 'Worked as a developer in an internship for the municipality\'s secretary of sustainability and environment.' },
-  { year: 2019, text: 'Started to learn photoshop and various tools by Adobe' },
+  { year: 2019, text: 'Started to learn photoshop and various tools by Adobe.' },
   { year: 2021, text: 'Graduated from University of Arizona Coding Bootcamp' },
-  { year: 2022, text: 'Internship at Deal Perch' },
+  { year: 2022, text: 'Internship at Deal Perch as a Full Stack Developer.' },
 ];
